@@ -1,0 +1,32 @@
+.card{
+    height: 80vh !important;
+    width: 380px !important;
+    margin-top: 1em !important;
+    margin-left: 1em !important;
+    background-color: whitesmoke !important;
+    box-shadow: 5px 5px 15px grey;
+}  
+.weatherInfo{
+    margin-top: 2px;
+}
+h1{
+    background-color:gray !important ;
+    text-align: center !important;
+    font-weight: bolder !important;
+    font-size: 1.5em !important;
+    height: 2em;
+}
+.card-img-top{
+    margin-top: 1em !important;
+    height: 40vh !important;
+    width: 90% !important;
+    margin-left: 1.5em !important;
+}
+.card-text{
+    text-align: center !important;
+    margin: 1em;
+}
+.btn{
+    margin-left: 4.5em !important; 
+
+}
